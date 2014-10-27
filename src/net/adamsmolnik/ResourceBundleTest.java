@@ -3,7 +3,7 @@ package net.adamsmolnik;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-public class Test {
+public class ResourceBundleTest {
 
     public static void main(String[] args) {
         Locale.setDefault(new Locale("pl", "PL"));
